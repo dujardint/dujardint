@@ -1,5 +1,5 @@
-- 👋 Hello, je suis @dujardint
-- 👀 Je publie ici tous mes projets en informatiques éfféctués lors de mes études et de mes projets personnels.
+- 👋 Hello, Hellooo !
+- 👀 Je publie ici tous mes projets en informatiques effectué lors de mes études et de mes projets personnels.
 
 <!---
 dujardint/dujardint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
